@@ -10,27 +10,32 @@ void setup()
 	//DECLARE OUR OBJECT
 
 	//INITIALIZE SENSORS
-InitEmoro();
-Lcd.init();
-Ultrasonic.attach(GPP_0);
-pinMode(IO_0,INPUT_PULLUP);
-pinMode(IO_1,INPUT_PULLUP);
-//ATTACH THE **RIGHT** SERVO
-EmoroServo.attach(SERVO_0);
-//ATTACH THE **LEFT** SERVO
-EmoroServo.attach(SERVO_1);
-//INITIALIZE SWITCHES
-InitSwitch();
+		InitEmoro();
+		Lcd.init();
+		Ultrasonic.attach(GPP_0);
+		pinMode(IO_0,INPUT_PULLUP);
+		pinMode(IO_1,INPUT_PULLUP);
+
+    //ATTACH THE **RIGHT** SERVO
+			EmoroServo.attach(SERVO_0);
+
+    //ATTACH THE **LEFT** SERVO
+			EmoroServo.attach(SERVO_1);
+
+   //INITIALIZE SWITCHES
+			InitSwitch();
+
+
 }
 
 // The loop function is called in an endless loop
 void loop()
 {
 //Add your repeated code here
+
 	larry.fwdUntil();
-	larry.turnRight();
-	larry.turnLeft();
-	larry.aboutFace();
+	delay(500)
+
 
 }
 
