@@ -4,39 +4,39 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 CPP_SRCS += \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/CDC.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/HID.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/HardwareSerial.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/IPAddress.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/Print.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/Stream.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/Tone.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/USBCore.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/WMath.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/WString.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_2560.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_acc.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_bluetooth.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_ds18s20.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_gyr.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_i2c.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_interrupts.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_lcd.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_mag.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_servo.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_switch.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_ultrasonic.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/main.cpp \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/new.cpp 
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/CDC.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/HID.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/HardwareSerial.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/IPAddress.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/Print.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/Stream.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/Tone.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/USBCore.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/WMath.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/WString.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_2560.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_acc.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_bluetooth.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_ds18s20.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_gyr.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_i2c.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_interrupts.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_lcd.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_mag.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_servo.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_switch.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_ultrasonic.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/main.cpp \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/new.cpp 
 
 C_SRCS += \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/WInterrupts.c \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_intdef.c \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/wiring.c \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/wiring_analog.c \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/wiring_digital.c \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/wiring_pulse.c \
-/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/wiring_shift.c 
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/WInterrupts.c \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_intdef.c \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/wiring.c \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/wiring_analog.c \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/wiring_digital.c \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/wiring_pulse.c \
+/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/wiring_shift.c 
 
 C_DEPS += \
 ./core/core/WInterrupts.c.d \
@@ -108,220 +108,220 @@ CPP_DEPS += \
 
 
 # Each subdirectory must supply rules for building sources it contributes
-core/core/CDC.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/CDC.cpp
+core/core/CDC.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/CDC.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/HID.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/HID.cpp
+core/core/HID.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/HID.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/HardwareSerial.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/HardwareSerial.cpp
+core/core/HardwareSerial.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/HardwareSerial.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/IPAddress.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/IPAddress.cpp
+core/core/IPAddress.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/IPAddress.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/Print.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/Print.cpp
+core/core/Print.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/Print.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/Stream.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/Stream.cpp
+core/core/Stream.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/Stream.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/Tone.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/Tone.cpp
+core/core/Tone.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/Tone.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/USBCore.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/USBCore.cpp
+core/core/USBCore.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/USBCore.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/WInterrupts.c.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/WInterrupts.c
+core/core/WInterrupts.c.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/WInterrupts.c
 	@echo 'Building file: $<'
 	@echo 'Starting C compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-gcc" -c -g -Os -w -std=gnu11 -ffunction-sections -fdata-sections -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-gcc" -c -g -Os -w -std=gnu11 -ffunction-sections -fdata-sections -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/WMath.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/WMath.cpp
+core/core/WMath.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/WMath.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/WString.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/WString.cpp
+core/core/WString.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/WString.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/emoro_2560.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_2560.cpp
+core/core/emoro_2560.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_2560.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/emoro_acc.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_acc.cpp
+core/core/emoro_acc.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_acc.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/emoro_bluetooth.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_bluetooth.cpp
+core/core/emoro_bluetooth.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_bluetooth.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/emoro_ds18s20.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_ds18s20.cpp
+core/core/emoro_ds18s20.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_ds18s20.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/emoro_gyr.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_gyr.cpp
+core/core/emoro_gyr.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_gyr.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/emoro_i2c.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_i2c.cpp
+core/core/emoro_i2c.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_i2c.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/emoro_intdef.c.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_intdef.c
+core/core/emoro_intdef.c.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_intdef.c
 	@echo 'Building file: $<'
 	@echo 'Starting C compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-gcc" -c -g -Os -w -std=gnu11 -ffunction-sections -fdata-sections -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-gcc" -c -g -Os -w -std=gnu11 -ffunction-sections -fdata-sections -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/emoro_interrupts.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_interrupts.cpp
+core/core/emoro_interrupts.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_interrupts.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/emoro_lcd.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_lcd.cpp
+core/core/emoro_lcd.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_lcd.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/emoro_mag.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_mag.cpp
+core/core/emoro_mag.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_mag.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/emoro_servo.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_servo.cpp
+core/core/emoro_servo.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_servo.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/emoro_switch.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_switch.cpp
+core/core/emoro_switch.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_switch.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/emoro_ultrasonic.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_ultrasonic.cpp
+core/core/emoro_ultrasonic.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/emoro_ultrasonic.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/main.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/main.cpp
+core/core/main.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/main.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/new.cpp.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/new.cpp
+core/core/new.cpp.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/new.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++" -c -g -Os -w -std=gnu++11 -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/wiring.c.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/wiring.c
+core/core/wiring.c.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/wiring.c
 	@echo 'Building file: $<'
 	@echo 'Starting C compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-gcc" -c -g -Os -w -std=gnu11 -ffunction-sections -fdata-sections -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-gcc" -c -g -Os -w -std=gnu11 -ffunction-sections -fdata-sections -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/wiring_analog.c.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/wiring_analog.c
+core/core/wiring_analog.c.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/wiring_analog.c
 	@echo 'Building file: $<'
 	@echo 'Starting C compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-gcc" -c -g -Os -w -std=gnu11 -ffunction-sections -fdata-sections -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-gcc" -c -g -Os -w -std=gnu11 -ffunction-sections -fdata-sections -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/wiring_digital.c.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/wiring_digital.c
+core/core/wiring_digital.c.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/wiring_digital.c
 	@echo 'Building file: $<'
 	@echo 'Starting C compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-gcc" -c -g -Os -w -std=gnu11 -ffunction-sections -fdata-sections -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-gcc" -c -g -Os -w -std=gnu11 -ffunction-sections -fdata-sections -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/wiring_pulse.c.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/wiring_pulse.c
+core/core/wiring_pulse.c.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/wiring_pulse.c
 	@echo 'Building file: $<'
 	@echo 'Starting C compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-gcc" -c -g -Os -w -std=gnu11 -ffunction-sections -fdata-sections -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-gcc" -c -g -Os -w -std=gnu11 -ffunction-sections -fdata-sections -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core/core/wiring_shift.c.o: /home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/wiring_shift.c
+core/core/wiring_shift.c.o: /home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core/wiring_shift.c
 	@echo 'Building file: $<'
 	@echo 'Starting C compile'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-gcc" -c -g -Os -w -std=gnu11 -ffunction-sections -fdata-sections -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 "$<"   -o "$@"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-gcc" -c -g -Os -w -std=gnu11 -ffunction-sections -fdata-sections -MMD -mmcu=atmega2560 -DF_CPU=16000000L -DARDUINO=10812 -DARDUINO_AVR_EMORO_2560 -DARDUINO_ARCH_AVR     -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/cores/emoro_core" -I"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/emoro/hardware/avr/3.2.2/variants/emoro_variants" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 "$<"   -o "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 

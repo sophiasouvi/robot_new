@@ -1,2 +1,2 @@
 spec.o: \
- /home/sophiasouvi/eclipse-workspace/.metadata/.plugins/org.eclipse.cdt.managedbuilder.core/spec.cpp
+ /home/chris7701/Documents/GitHub/toop-fa22-CSJ7701/.metadata/.plugins/org.eclipse.cdt.managedbuilder.core/spec.cpp

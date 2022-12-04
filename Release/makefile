@@ -50,7 +50,7 @@ endif
 
 # Add inputs and outputs from these tool invocations to the build variables 
 AR += \
-/home/sophiasouvi/eclipse-workspace/robot/Release/arduino.ar \
+/home/chris7701/Documents/GitHub/robot_new/Release/arduino.ar \
 
 ELF += \
 robot.elf \
@@ -89,19 +89,19 @@ all: robot
 robot: $(HEX)
 	@echo 'Building target: $@'
 	@echo 'Printing size:'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-size" -A "/home/sophiasouvi/eclipse-workspace/robot/Release/robot.elf"
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-size" -A "/home/chris7701/Documents/GitHub/robot_new/Release/robot.elf"
 	@echo 'Finished building target: $@'
 	@echo ' '
 
-/home/sophiasouvi/eclipse-workspace/robot/Release/arduino.ar: $(AR_OBJ)
+/home/chris7701/Documents/GitHub/robot_new/Release/arduino.ar: $(AR_OBJ)
 	@echo 'Starting archiver'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-ar" rcs     /home/sophiasouvi/eclipse-workspace/robot/Release/arduino.ar $(AR_OBJ)
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-ar" rcs     /home/chris7701/Documents/GitHub/robot_new/Release/arduino.ar $(AR_OBJ)
 	@echo 'Finished building: $@'
 	@echo ' '
 
 robot.elf: $(LINK_OBJ) $(AR)
 	@echo 'Starting combiner'
-	"/home/sophiasouvi/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-gcc" -w -Os -Wl,--gc-sections,--relax -mmcu=atmega2560  -o "/home/sophiasouvi/eclipse-workspace/robot/Release/robot.elf"   $(LINK_OBJ)   /home/sophiasouvi/eclipse-workspace/robot/Release/arduino.ar  "-L/home/sophiasouvi/eclipse-workspace/robot/Release" -lm
+	"/home/chris7701/eclipse/cpp-2022-092/eclipse/arduinoPlugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-gcc" -w -Os -Wl,--gc-sections,--relax -mmcu=atmega2560  -o "/home/chris7701/Documents/GitHub/robot_new/Release/robot.elf"   $(LINK_OBJ)   /home/chris7701/Documents/GitHub/robot_new/Release/arduino.ar  "-L/home/chris7701/Documents/GitHub/robot_new/Release" -lm
 	@echo 'Finished building: $@'
 	@echo ' '
 
